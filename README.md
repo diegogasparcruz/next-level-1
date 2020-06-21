@@ -1,5 +1,5 @@
-# next-level-1
-Conteúdo desenvolvido durante a primeira edição da Next Level Week ministrado pela Rocketseat.
+# Next Level Week
+
 <h1 align="center">
   <img src="https://github.com/diegogasparcruz/next-level-1/blob/master/frontend/src/assets/logo.svg">
 </h1>
@@ -16,7 +16,9 @@ Conteúdo desenvolvido durante a primeira edição da Next Level Week ministrado
 - [x] [Node.js](https://nodejs.org/en)
 - [x] [ExpressJS](https://expressjs.com/pt-br)
 - [x] [Knex](http://knexjs.org)
-- [x] [Vue.js](https://vuejs.org)
+- [x] [ReactJS](https://pt-br.reactjs.org)
+- [x] [React Native](https://reactnative.dev)
+- [x] [Expo](https://expo.io)
 
 ## :computer: Projeto
-**Be the Hero**, é um projeto que se concentra em ajudar as ONGs a angariar fundos para seus projetos.
+**Ecoleta**, é um projeto que ajuda pessoas a encontrarem pontos de coleta de forma eficiente.
