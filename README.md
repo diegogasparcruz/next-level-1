@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana Omnistack 11.0
+  🚀 Primeira edição da Next Level Week
 </h4>
 
 <p align="center">
