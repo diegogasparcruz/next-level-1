@@ -1,4 +1,4 @@
-# 🚀 Primeira edição da Next Level Week
+# 🚀 Next Level Week - 1ª Edição
 
 <h1 align="center">
   <img src="https://github.com/diegogasparcruz/next-level-1/blob/master/frontend/src/assets/logo.svg">
