@@ -2,3 +2,8 @@ node_modules
 uploads
 yarn.lock
 yarn-error.log
+
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
